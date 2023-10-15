@@ -11,11 +11,11 @@ description: My journey in Deep Learning: Where machines try to understand cats,
 github_username: saigkrish
 
 # Email and twitter are optional:
-email:saigkrish@gmail.com
-twitter_username:saigkrish
+email: saigkrish@gmail.com
+twitter_username: saigkrish
 
 # Set this to true to get LaTeX math equation support
-use_math:true
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
